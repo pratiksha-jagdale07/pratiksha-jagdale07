@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.E. Computer Science — DY Patil Institute, Akurdi (CGPA: 8.9/10)
+- 🎓 B.E. Computer Science — Dr D Y Patil Institute of Engineering Management And Research, Akurdi (CGPA: 8.9/10)
 - 💼 Intern @ Elite Software's — Built 10+ REST APIs using Spring Boot
 - 🔭 Currently building **PayFlow** — A Stripe-integrated Payment Platform
 - 🌱 Next project: **E-Commerce Full Stack App with AI Recommendations**
